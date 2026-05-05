@@ -1,0 +1,8 @@
+marks=int(input("Enter your marks -->"))
+
+if marks >= 90:
+    print("Exellent")
+elif marks >=70:
+    print("Good")
+else:
+    print("Bad")
